@@ -1,0 +1,10 @@
+form{
+    border: solid 6px white;
+    width: 400px;
+    margin-left: 900PX;
+    padding-left: 25PX;
+    border-radius: 0% 0% 50% 0%;
+}
+body{
+    background-image: url(photo2.jpg);
+}
